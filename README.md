@@ -8,7 +8,7 @@ We utilized [open datasets](https://opendata.cityofnewyork.us/) from NYC OpenDat
 
 Our project includes two notebooks: Top10.ipynb and Parking.ipynb
 
-In Top10.ipynb, we analyzed the top 10 caused of calls to 311 in our chosen zip code 10025 and sorted them in descending order 
+In Top10.ipynb, we analyzed the top 10 causes of calls to 311 in our chosen zip code 10025 and sorted them in descending order 
 
 In Parking.ipynb, we calculated the local parking incidents rate and compared that with the NYC parking incidents rate.
  
